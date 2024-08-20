@@ -5,4 +5,4 @@ Created with CodeSandbox
 
 Реализовано на React TS
 
-ДемонстрацияЖ https://codesandbox.io/p/sandbox/bold-hodgkin-999276
+Демонстрация: https://codesandbox.io/p/sandbox/bold-hodgkin-999276
